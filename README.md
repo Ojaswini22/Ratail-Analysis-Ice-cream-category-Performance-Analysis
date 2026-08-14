@@ -14,3 +14,4 @@ Expand Rocky Road distribution.
 Convert Unicorn Sparkle to a year-round product.
 Reevaluate Root Beer Float assortment.
 Optimize shelf placement using velocity data.
+<img width="1938" height="1078" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/9305276c-d24d-4f70-96f6-c087f364dfd5" />
